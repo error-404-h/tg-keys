@@ -1,0 +1,30 @@
+Package: tg-keys
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: error-404-h <error404_h@t.me>
+Filename: ./tg-keys_1.0.0_amd64.deb
+Size: 4455164
+MD5sum: 43144662e6f08f2dd455d52387c49aba
+SHA1: e0eabc2cb543a3068ecb19c4ccde448438ff30d0
+SHA256: 42bd1b590794318129b741c4f82b8c25fb8a292cbe75a0180a9c3cb97630026c
+SHA512: 0ac30b6fdccf85b3b6c90722d4445ec4c9749b4ddd8a1f34f49a4a566e1e317fc1fdace1a814efcbeabec50b8232a6983c81c202121531f9403877e0e8a7d89a
+Description: A professional Telegram API extractor tool.
+ Installed as 'tg-keys' command.
+
+Package: tg-keys
+Architecture: i386
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: error-404-h <error404_h@t.me>
+Filename: ./tg-keys_1.0.0_i386.deb
+Size: 4349792
+MD5sum: 69f32101d19b08af86af85f97de25520
+SHA1: a6398cac4ba19081aa765c750679163833772045
+SHA256: ab8374f3d689959c03198663b4eb9f6854d0247a3cc73e8896c3683390d2be23
+SHA512: d72db22e406150a30fe3bc319c88ad8c6beaa4e43fee6e0623b2d87d700489dbe9ec778218d1e01c9f65b580aa31400fde559b42b1bbffd97495a0f940a3a482
+Description: A professional Telegram API extractor tool.
+ Installed as 'tg-keys' command.
+

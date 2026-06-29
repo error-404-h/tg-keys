@@ -1,0 +1,8 @@
+Package: tg-keys
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: error-404-h <error404_h@t.me>
+Description: A professional Telegram API extractor tool.
+ Installed as 'tg-keys' command.
